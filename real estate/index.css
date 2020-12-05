@@ -1,0 +1,198 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1.5rem;
+    text-shadow: 1px 1px 4px #515d75;
+    font-family: "Apple Chancery", "cursive";
+    font-size: 48px;
+    padding-bottom: 6rem;
+}
+.title1{
+    font-weight: bold;
+    text-shadow: 1px 1px 4px #515d75;
+    font-family: "Apple Chancery", "cursive";
+    font-size: 48px;
+    padding:1.5rem;
+}
+#nav{
+    justify-content: center;
+
+}
+#nav li{
+    display: inline;
+    padding-top: 2.5rem;
+    padding-bottom: 3.5rem;
+
+}
+#nav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+    font-weight: bold;
+    font-family: "Palatino", "URW Palladio L", "serif";
+}
+.contact li{
+    display: inline;
+    padding: 8rem;
+    color:#d5d8de;
+}
+.nav li a:hover{
+    background-color: #515d75;
+    color:white;
+}
+#nav1{
+    background-color:#515d75;
+    padding: .098rem;
+    padding-top:.5rem;
+    padding-bottom:.1rem;
+}
+#signUp{
+    padding-top: 5rem;;
+}
+.cardText{
+    text-align: center;
+    font-weight: bold;
+    font-size: 33px;
+    padding-top: .5rem;
+    color:black;
+    text-shadow: 1px 1px 2px #515d75;
+    
+}
+.cardSubText{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 31px;
+    padding-top:.1rem;
+    color:#515d75;
+}
+#signUpCont{
+    justify-content: center;
+}
+#edit{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top:2px;
+}
+#edit1{
+    padding-right: 5px;
+    width: 50px;
+}
+#footer1{
+    background-color: #515d75;
+    padding:20px;
+}
+#copyright{
+    text-align: center;
+    color:white;
+    padding-bottom: 0%;
+}
+#maincontent{
+    margin-bottom: 0em;
+}
+
+.estimatebtn{
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top:1.5rem;
+    color: #515d75;
+}
+#estimate{
+    background-color: #515d75;
+    padding:23px;
+}
+
+.satisfaction{
+    padding-top: 3rem;
+    
+}
+.satisfaction h2{
+  margin-right: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+  text-shadow: 1px 1px 2px #515d75;
+}
+#priority{
+    color: black;
+    text-shadow: 1px 1px 2px #515d75;
+    padding-bottom: 1rem;
+}
+.testimony{
+    padding-top: 2rem;
+}
+#contactNum{
+    background-color: #515d75;
+    padding:15px;
+    padding-bottom: 5px;
+
+}
+#contactNum ul{
+    justify-content: center;
+}
+#contactNum li{
+    display: inline;
+    margin-right: .2rem;
+    margin-left:1rem;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+
+}
+.subsubtext{
+    text-align: center;
+    padding: 2.5rem;
+}
+.sheldon{
+padding-top:5rem;
+padding-left:10%;
+padding-bottom:5rem;
+padding-right: 3rem;
+}
+.sheldonAbout{
+    display: 
+
+}
+.zachAbout{
+    display: inline;
+
+}
+.zach{
+padding-top:5rem;
+padding-bottom:5rem;
+padding-left:10%;
+padding-right: 3rem;
+
+}
+.aboutSubtitle{
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top:.1rem;
+    color:#515d75;
+}
+.zach p{
+    padding:10px;
+}
+.sheldonInfo{
+    padding:5rem;
+}
+.zachInfo{
+    padding:5rem;
+}
+.aboutText h3{
+    padding-right:1rem;
+}
+.aboutText h5{
+    padding: 7px;
+    padding-left: 3rem;
+}
+#navbar{
+align-items: center;
+}
+#navitems a{
+    text-align: right;
+    color: white;
+}
+#navitems a:hover{
+    color:gray;
+}
+
